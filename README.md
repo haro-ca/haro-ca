@@ -2,7 +2,7 @@
 
 **AI Engineer & Technical Product Manager** at Santander AI, Mexico City. Eight years bridging deep technical execution and business strategy, shipping end-to-end data & AI across AWS, Azure and GCP.
 
-- **FRED**: a structured fraud-analysis agent in production
+- **FRED**: a structured fraud-analysis agent
 - **Internal RAG chatbot**: for the branch network and contact center
 - **Teaching**: [Real-Time Data Processing](https://github.com/haro-ca/real-time-data-processing-class), a 12-lesson hands-on course (OLTP, CDC, Kafka, stream processing, real-time OLAP)
 
